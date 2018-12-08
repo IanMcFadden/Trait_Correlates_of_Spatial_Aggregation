@@ -34,7 +34,7 @@ DOI: https://doi.org/10.6084/m9.figshare.3557760.v1
 ## of spatial aggregation in tropical forest trees. Ecology 
 
 
-### Setup #################=
+### Setup #################
 # Need to make sure both these functions are in the working directory:
 # 'sppm_decision_tree.r'
 # 'gof_test.R' 
