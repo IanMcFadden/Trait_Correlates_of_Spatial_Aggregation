@@ -2,7 +2,7 @@
 
 **Code to reproduce:**
 
-McFadden et al. 2019. Disentangling the functional trait correlates of spatial aggregation in tropical forest trees. Ecology
+McFadden, I.R., Bartlett, M.K., Wiegand, T., Turner, B.L., Sack, L., Valencia, R. & Kraft, N.J.B. 2019. Disentangling the functional trait correlates of spatial aggregation in tropical forest trees. Ecology
 
 <br/>
 
