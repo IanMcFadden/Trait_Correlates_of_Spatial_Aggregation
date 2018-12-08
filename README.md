@@ -27,7 +27,7 @@ DOI: https://doi.org/10.6084/m9.figshare.3557760.v1
 
 ## NOTE:
 ## This script uses dummy names for stem and habitat data
-## Change the names to your stem data to use the function
+## Change the names to those used in your data to use the functions
 
 ## From:
 ## McFadden et al. 2019. Disentangling the functional trait correlates
