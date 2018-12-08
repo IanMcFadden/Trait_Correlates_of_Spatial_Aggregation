@@ -19,6 +19,7 @@ DOI: https://doi.org/10.6084/m9.figshare.3557760.v1
 
 
 <br/>
+
 **Generalized vignette using the functions contained in this repository to reproduce the results of the study**
 
 ```r
