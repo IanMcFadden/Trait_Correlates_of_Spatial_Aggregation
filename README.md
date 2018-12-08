@@ -1,8 +1,10 @@
 
 **Code to reproduce:**
+
 McFadden et al. 2019. Disentangling the functional trait correlates of spatial aggregation in tropical forest trees. Ecology
 
 **Note:**
+
 This code and the analyses it performs largely follow the approach of Shen et al. (2013, see Appendix B and code citation below), except this study used a negative exponential distribution for the shape parameter of the Matern covariance function (0.5) whereas in Shen et al. 2013 this was a free parameter that was fit from a range of values. In addition, the proportion of variance explained by habitat and dispersal within species was not estimated. 
 
 
@@ -12,6 +14,7 @@ Shen, G., F. He, R. Waagepetersen, I.-F. Sun, Z. Hao, Z.-S. Chen, and M. Yu. 201
 
 Shen, G., F. He, R. Waagepetersen, I.-F. Sun, Z. Hao, Z.-S. Chen, and M. Yu. 2016, August 10. Supplement 1. R functions for estimating parameters of the Cox process, model selections, and calculating percentage of variances explained by habitat heterogeneity and other clustering processes.
 DOI: https://doi.org/10.6084/m9.figshare.3557760.v1
+
 
 
 **Generalized vignette using the functions contained in this repository to reproduce the results of the study**
