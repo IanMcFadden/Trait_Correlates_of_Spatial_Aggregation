@@ -16,7 +16,7 @@ DOI: https://doi.org/10.6084/m9.figshare.3557760.v1
 
 **Generalized vignette using the functions contained in this repository to reproduce the results of the study**
 
-```{r}
+```r
 
 ## NOTE:
 ## This script uses dummy names for stem and habitat data
