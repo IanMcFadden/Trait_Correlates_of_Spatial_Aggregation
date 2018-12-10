@@ -56,7 +56,7 @@ load("habList.Rdata") # Change this to actual im object list
 # cen <- cen[cen$sp %in% abund,]
 # length(unique(cen$sp)) # How many species were chosen?
 
-# Run the decision tree function
+### Run the decision tree function #################
 res <- sppm_decision_tree(dataframe=cen,           # Stem coordinate dataset
                           species_codes='sp',      # Name of species code column 
                           x_coords='gx',           # X coordinate column name
